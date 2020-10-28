@@ -8,4 +8,5 @@ Some useful python talks, readings, and code I've collected over the years.
 
 ### Generators, Coroutines, Concurrency
 [David Beazley Page](http://www.dabeaz.com/coroutines/)
+
 [Iterator Chapter Breakdown from Python Cookbook](notebooks/python-cookbook/README.md)
