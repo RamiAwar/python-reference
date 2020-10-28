@@ -9,4 +9,4 @@ Some useful python talks, readings, and code I've collected over the years.
 ### Generators, Coroutines, Concurrency
 [David Beazley Page](http://www.dabeaz.com/coroutines/)
 
-[Iterator Chapter Breakdown from Python Cookbook](notebooks/python-cookbook/Python\ Cookbook\ -\ Iterators\ and\ Generators.ipynb)
+[Iterator Chapter Breakdown from Python Cookbook](notebooks/python-cookbook/ch4-iterators-generators.ipynb)
